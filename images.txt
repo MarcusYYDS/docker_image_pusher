@@ -2,4 +2,25 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+ghcr.io/lagrangedev/lagrange.onebot:sha-e35ee34
+xiaoyaliu/alist:latest
+synctvorg/synctv:latest
+neosmemo/memos:0.22.0
+xhofe/alist:v3.34.0
+koishijs/koishi:v1.14.3
+linuxserver/qbittorrent:4.6.4
+ghcr.io/redish101/reblog:main
+snowdreamtech/frps:0.56.0
+halcyonazure/lsky-pro-docker:latest
+ghcr.io/umami-software/umami:mysql-v2.10.1
+bangbang93/openbmclapi:latest
+yourls:1.9.2
+halohub/halo:2.12.2
+rustdesk/rustdesk-server-s6:latest
+minio/minio:RELEASE.2024-01-05T22-17-24Z
+mysql:8.2.0
+openresty/openresty:1.21.4.3-0-focal
+alpine:3.18.2
+fogforest/yesplaymusic:0.4.7
+jellyfin/jellyfin
+adguard/adguardhome
